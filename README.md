@@ -104,7 +104,7 @@ Enterprise knowledge assistant powered by RAG, LLMs and multi-agent workflows.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shah-Abdul-Mazid&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shah-Abdul-Mazid&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub statistics"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shah-Abdul-Mazid&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 
 <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shah-Abdul-Mazid&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
