@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Live Dynamic Waving Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=210&section=header&text=Shah%20Abdul%20Mazid&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=AI%20Engineer%20%7C%20GenAI%20%7C%20Research&descSize=17&descAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=210&section=header&text=Shah%20Abdul%20Mazid&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=AI%20ENGINEER%20%40%20NEUROXYTE%20%7C%20GENAI%20%7C%20RESEARCHER&descSize=16&descAlignY=55&animation=fadeIn"/>
 
 <!-- Live Running Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -79,18 +79,22 @@ Enterprise knowledge assistant powered by RAG, LLMs and multi-agent workflows.
 - Brain tumor classification with explainable Grad-CAM visualizations
 - Reported test accuracy: **92.96%**
 
-### 03. MangoStack
-Research-driven agricultural disease diagnosis using deep learning.
+### 03. MangoStack: A Lightweight, Interpretable Ensemble for Real-Time Mango Leaf Disease Diagnosis
 
 - Published research: IEEE ICCIT 2025
 - [DOI](https://doi.org/10.1109/ICCIT68739.2025.11490181)
+
+### 04. Uncertainty-Aware Chest Pathology Detection with Vision and Language Transformers
+
+- Published research: Springer ICIDA 2025
+- [DOI](https://doi.org/10.1007/978-3-032-27845-6_34)
 
 ---
 
 ## 📚 Research & Publications
 
-- **MangoStack** — IEEE ICCIT 2025
-- **Uncertainty-Aware Chest Pathology Detection with Vision and Language Transformers** — Medical imaging research
+- **MangoStack: A Lightweight, Interpretable Ensemble for Real-Time Mango Leaf Disease Diagnosis** — IEEE ICCIT 2025
+- **Uncertainty-Aware Chest Pathology Detection with Vision and Language Transformers** — Springer ICIDA 2025
 
 [Google Scholar](https://scholar.google.com/citations?user=TYkiwUgAAAAJ) · [ORCID](https://orcid.org/0009-0009-6864-5343) · [ResearchGate](https://www.researchgate.net/profile/Shah-Abdul-Mazid)
 
